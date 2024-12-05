@@ -3,16 +3,17 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
+  background-color: #d98499;
 }
 
 header {
-  background-color: #f8f9fa;
+  background-color: #569fc1;
   padding: 1rem;
 }
 
 h1 {
   margin: 0;
-  color: #333;
+  color: #faeb91;
 }
 
 .gallery {
@@ -34,7 +35,11 @@ h1 {
 }
 
 footer {
-  background-color: #f8f9fa;
+  background-color: #014225;
   padding: 1rem;
   margin-top: 10px;
+}
+
+p {
+  color: #faeb91;
 }
